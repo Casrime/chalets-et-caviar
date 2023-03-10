@@ -1,0 +1,19 @@
+/*
+Theme Name: Activello Child
+Description: Activello Child
+Author: CasRime
+Author URI: https://github.com/CasRime/chalets-et-caviar
+Template: activello 
+Version: 0.0.1
+*/
+
+@import url("../activello/style.css");
+
+#custom_informations_list {
+	list-style: none;
+	margin-left: -40px;
+}
+
+label {
+	width: 100%;
+}
